@@ -11,3 +11,5 @@ number = 2
 
 set_bits_count = count_set_bits(number)
 print(f"The number of set bits in {number} is {set_bits_count}")
+
+number.bit_count()
